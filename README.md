@@ -29,6 +29,9 @@ An autonomous **AI Agent** that acts as your personal financial analyst. This to
 * **Language:** Python
 
 ---
+<img width="1897" height="844" alt="Image" src="https://github.com/user-attachments/assets/2291841e-e687-4572-b04c-643df141b9a0" />
+
+<img width="1907" height="755" alt="Image" src="https://github.com/user-attachments/assets/e1ae7c57-999d-4837-892f-52cd7e615263" />
 
 ## 📂 Project Structure
 
