@@ -1,0 +1,9 @@
+# Security: Never push API keys
+.env
+
+# Python compilation files
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
